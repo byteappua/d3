@@ -7,6 +7,7 @@ export default defineConfig({
   title: "D3 by Observable",
   description: "The JavaScript library for bespoke data visualization",
   appearance: "force-auto",
+  base:"/d3/",
   cleanUrls: true,
   sitemap: {
     hostname: "https://d3js.org"
